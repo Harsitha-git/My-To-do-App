@@ -1,5 +1,5 @@
 * {
-  font-family: 'Atma', sans-serif;
+  font-family: 'Michroma', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -13,7 +13,7 @@ h2,
 h3,
 input,
 button {
-  font-family: 'Atma', system-ui;
+  font-family: 'Michroma', system-ui;
 }
 
 .page-header{
@@ -87,7 +87,7 @@ p {
   padding: 14px;
   border-radius: 14px;
   background: white;
-  font: 'Press Start 2P';
+  font: 'Michroma';
 }
 
 .todoItem p {

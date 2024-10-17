@@ -56,7 +56,7 @@ function App() {
   return (
     <>
 
-    <h1 className='page-header'>Hello</h1>
+    <h1 className='page-header'>Add a Task</h1>
 
       <TodoInput todoValue= {todoValue} setTodoValue= {setTodoValue} 
       handleAddTodos={handleAddTodos}/>
